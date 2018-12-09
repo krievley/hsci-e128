@@ -85,7 +85,7 @@
                     <h5 class="card-title">Peaceful Resistance</h5>
                     <h6 class="card-subtitle mb-2 text-muted">FemCorp</h6>
                     <p class="card-text">What would the world be like without war? Find out now.</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
+                    <a href="{!! route('peaceful') !!}" class="btn btn-primary">Learn More</a>
                 </div>
             </div>
         </div>

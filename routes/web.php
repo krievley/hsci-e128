@@ -20,3 +20,6 @@ Route::get('/pregnant-man', function () {
 Route::get('/safe-travels', function () {
     return view('safe-travels');
 })->name('save_travels');
+Route::get('/peaceful-resistance', function () {
+    return view('peaceful');
+})->name('peaceful');
