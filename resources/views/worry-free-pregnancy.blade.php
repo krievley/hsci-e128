@@ -51,6 +51,28 @@
         <div class="col">
             <h2>Other Packages by World of I.T.</h2>
             <div class="row">
+                <div class="col-md-6">
+                    <div class="card">
+                        <img class="card-img-top" src="{!! asset('/img/cards/future_travel.png') !!}" alt="Travel in Style">
+                        <div class="card-body">
+                            <h5 class="card-title">Travel in Style</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">World of I.T.</h6>
+                            <p class="card-text">Hoverboards, flying cars, and jet packs are the new ways to travel.</p>
+                            <a href="{!! route('travel_in_style') !!}" class="btn btn-primary">Learn More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="card">
+                        <img class="card-img-top" src="{!! asset('/img/cards/robot_war.png') !!}" alt="Mechanical Warfare">
+                        <div class="card-body">
+                            <h5 class="card-title">Mechanical Warfare</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">World of I.T.</h6>
+                            <p class="card-text">Introducing new technology that will change the battlefield.</p>
+                            <a href="{!! route('mechanical_warfare') !!}" class="btn btn-primary">Learn More</a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

@@ -48,6 +48,28 @@
         <div class="col">
             <h2>Other Packages by World of I.T.</h2>
             <div class="row">
+                <div class="col-md-6">
+                    <div class="card">
+                        <img class="card-img-top" src="{!! asset('/img/cards/embryo.png') !!}" alt="Worry Free Pregnancy">
+                        <div class="card-body">
+                            <h5 class="card-title">Worry Free Pregnancy</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">World of I.T.</h6>
+                            <p class="card-text">Explore a world where babies are grown in incubators.</p>
+                            <a href="{!! route('worry_free_pregnancy') !!}" class="btn btn-primary">Learn More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="card">
+                        <img class="card-img-top" src="{!! asset('/img/cards/robot_war.png') !!}" alt="Mechanical Warfare">
+                        <div class="card-body">
+                            <h5 class="card-title">Mechanical Warfare</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">World of I.T.</h6>
+                            <p class="card-text">Introducing new technology that will change the battlefield.</p>
+                            <a href="{!! route('mechanical_warfare') !!}" class="btn btn-primary">Learn More</a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
