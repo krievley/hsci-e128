@@ -31,3 +31,6 @@ Route::get('/pregnancy-break', function () {
 Route::get('/national-pride', function () {
     return view('national-pride');
 })->name('national_pride');
+Route::get('/construct-a-fiefdom', function () {
+    return view('fiefdom');
+})->name('fiefdom');

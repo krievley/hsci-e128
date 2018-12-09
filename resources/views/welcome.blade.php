@@ -96,7 +96,7 @@
                     <h5 class="card-title">Construct a Fiefdom</h5>
                     <h6 class="card-subtitle mb-2 text-muted">The Emperial Agency</h6>
                     <p class="card-text">Build your kingdom by conquering and defending your territory.</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
+                    <a href="{!! route('fiefdom') !!}" class="btn btn-primary">Learn More</a>
                 </div>
             </div>
         </div>
