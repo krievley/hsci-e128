@@ -10466,9 +10466,15 @@ a.text-dark:focus {
   }
 }
 
-.navbar-laravel {
-  background-color: #fff;
-  -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
-          box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+.banner-text {
+  margin: 2rem 0;
+}
+
+.banner-text .display-1 {
+  font-size: 3rem;
+}
+
+.row {
+  margin-bottom: 30px;
 }
 
