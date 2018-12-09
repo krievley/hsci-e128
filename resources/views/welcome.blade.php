@@ -50,7 +50,7 @@
                     <h5 class="card-title">Safe Travels</h5>
                     <h6 class="card-subtitle mb-2 text-muted">FemCorp</h6>
                     <p class="card-text">Travel anywhere in the world without worrying about personal safety.</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
+                    <a href="{!! route('save_travels') !!}" class="btn btn-primary">Learn More</a>
                 </div>
             </div>
         </div>

@@ -17,3 +17,6 @@ Route::get('/', function () {
 Route::get('/pregnant-man', function () {
     return view('pregnant-man');
 })->name('pregnant_man');
+Route::get('/safe-travels', function () {
+    return view('safe-travels');
+})->name('save_travels');
