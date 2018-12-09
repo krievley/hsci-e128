@@ -107,7 +107,7 @@
                     <h5 class="card-title">Mechanical Warfare</h5>
                     <h6 class="card-subtitle mb-2 text-muted">World of I.T.</h6>
                     <p class="card-text">Introducing new technology that will change the battlefield.</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
+                    <a href="{!! route('mechanical_warfare') !!}" class="btn btn-primary">Learn More</a>
                 </div>
             </div>
         </div>

@@ -41,3 +41,6 @@ Route::get('/worry-free-pregnancy', function () {
 Route::get('/travel-in-style', function () {
     return view('travel-in-style');
 })->name('travel_in_style');
+Route::get('/mechanical-warfare', function () {
+    return view('mechanical-warfare');
+})->name('mechanical_warfare');
