@@ -50,7 +50,28 @@
         <div class="col">
             <h2>Other Packages by The Emperial Agency</h2>
             <div class="row">
-
+                <div class="col-md-6">
+                    <div class="card">
+                        <img class="card-img-top" src="{!! asset('/img/cards/national_pride.png') !!}" alt="National Pride">
+                        <div class="card-body">
+                            <h5 class="card-title">National Pride</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">The Emperial Agency</h6>
+                            <p class="card-text">Discover more of the country you love. Exciting lands await.</p>
+                            <a href="{!! route('national_pride') !!}" class="btn btn-primary">Learn More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="card">
+                        <img class="card-img-top" src="{!! asset('/img/cards/kingdom.png') !!}" alt="Construct a Fiefdom">
+                        <div class="card-body">
+                            <h5 class="card-title">Construct a Fiefdom</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">The Emperial Agency</h6>
+                            <p class="card-text">Build your kingdom by conquering and defending your territory.</p>
+                            <a href="{!! route('fiefdom') !!}" class="btn btn-primary">Learn More</a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

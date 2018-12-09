@@ -50,7 +50,28 @@
         <div class="col">
             <h2>Other Packages by The Emperial Agency</h2>
             <div class="row">
-
+                <div class="col-md-6">
+                    <div class="card">
+                        <img class="card-img-top" src="{!! asset('/img/cards/girls_night.png') !!}" alt="Pregnancy Break">
+                        <div class="card-body">
+                            <h5 class="card-title">Pregnancy Break</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">The Emperial Agency</h6>
+                            <p class="card-text">Take a break from your pregnancy by experiencing a world without that baby bump.</p>
+                            <a href="{!! route('pregnancy_break') !!}" class="btn btn-primary">Learn More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="card">
+                        <img class="card-img-top" src="{!! asset('/img/cards/kingdom.png') !!}" alt="Construct a Fiefdom">
+                        <div class="card-body">
+                            <h5 class="card-title">Construct a Fiefdom</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">The Emperial Agency</h6>
+                            <p class="card-text">Build your kingdom by conquering and defending your territory.</p>
+                            <a href="{!! route('fiefdom') !!}" class="btn btn-primary">Learn More</a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
