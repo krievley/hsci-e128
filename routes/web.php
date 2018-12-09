@@ -28,3 +28,6 @@ Route::get('/peaceful-resistance', function () {
 Route::get('/pregnancy-break', function () {
     return view('pregnancy-break');
 })->name('pregnancy_break');
+Route::get('/national-pride', function () {
+    return view('national-pride');
+})->name('national_pride');

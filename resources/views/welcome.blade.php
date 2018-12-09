@@ -61,7 +61,7 @@
                     <h5 class="card-title">National Pride</h5>
                     <h6 class="card-subtitle mb-2 text-muted">The Emperial Agency</h6>
                     <p class="card-text">Discover more of the country you love. Exciting lands await.</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
+                    <a href="{!! route('national_pride') !!}" class="btn btn-primary">Learn More</a>
                 </div>
             </div>
         </div>
