@@ -20,8 +20,8 @@
                 </div>
             </div>
             <p class="lead">
-                Many women are scared to travel alone or travel to specific places. They can be targets in areas based
-                or their gender or the way they look. This virtual experience removes all of those fears by allowing
+                Many women are scared to travel alone or to specific places. They can be targets in areas based
+                or their gender or certain physical characteristics. This virtual experience removes all of those fears by allowing
                 virtual travel. There are many world destinations available including the Roman Coliseum and Egyptian
                 Pyramids. There are many destinations at your fingertips with more added everyday. Say goodbye to fears
                 of traveling and hello to Safe Travels.

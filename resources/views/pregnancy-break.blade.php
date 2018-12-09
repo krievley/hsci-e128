@@ -29,7 +29,7 @@
             <p class="lead">
                 Imagine yourself sipping a margarita on the beach, sporting you favorite swimsuit. This package comes
                 with the ability to connect to your friends in a virtual world so that you can put on your
-                favorite outfit and have a night out with your friends. Pregnancy is a beautiful gift, and you should
+                favorite outfit and have a night out. Pregnancy is a beautiful gift, and you should
                 be able to enjoy every aspect of it while still taking time for yourself.
             </p>
             <p class="lead">
