@@ -72,7 +72,7 @@
                     <h5 class="card-title">Travel in Style</h5>
                     <h6 class="card-subtitle mb-2 text-muted">World of I.T.</h6>
                     <p class="card-text">Hoverboards, flying cars, and jet packs are the new ways to travel.</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
+                    <a href="{!! route('travel_in_style') !!}" class="btn btn-primary">Learn More</a>
                 </div>
             </div>
         </div>

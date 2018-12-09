@@ -38,3 +38,6 @@ Route::get('/construct-a-fiefdom', function () {
 Route::get('/worry-free-pregnancy', function () {
     return view('worry-free-pregnancy');
 })->name('worry_free_pregnancy');
+Route::get('/travel-in-style', function () {
+    return view('travel-in-style');
+})->name('travel_in_style');
