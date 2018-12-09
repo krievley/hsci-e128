@@ -14,3 +14,6 @@
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/pregnant-man', function () {
+    return view('pregnant-man');
+})->name('pregnant_man');
