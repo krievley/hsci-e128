@@ -9,14 +9,14 @@
     <div class="row">
         <div class="col">
             <div class="row justify-content-between">
-                <div class="col-md-10">
-                    <h1 class="display-4">
+                <div class="col-md-9">
+                    <h1 class="display-5">
                         Construct a Fiefdom
                         <small class="text-muted">- The Emperial Agency</small>
                     </h1>
                 </div>
-                <div class="col-md-2">
-                    <p class="display-4">$1/Day</p>
+                <div class="col-md-3">
+                    <p class="display-5">$1/Day</p>
                 </div>
             </div>
             <p class="lead">

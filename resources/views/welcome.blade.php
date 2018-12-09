@@ -37,7 +37,7 @@
                     <h5 class="card-title">Worry Free Pregnancy</h5>
                     <h6 class="card-subtitle mb-2 text-muted">World of I.T.</h6>
                     <p class="card-text">Explore a world where babies are grown in incubators.</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
+                    <a href="{!! route('worry_free_pregnancy') !!}" class="btn btn-primary">Learn More</a>
                 </div>
             </div>
         </div>

@@ -9,14 +9,14 @@
     <div class="row">
         <div class="col">
             <div class="row justify-content-between">
-                <div class="col-md-8">
-                    <h1 class="display-4">
+                <div class="col-md-9">
+                    <h1 class="display-5">
                         The Pregnant Man
                         <small class="text-muted">- FemCorp</small>
                     </h1>
                 </div>
-                <div class="col-md-4">
-                    <p class="display-4">$20/Day</p>
+                <div class="col-md-3">
+                    <p class="display-5">$20/Day</p>
                 </div>
             </div>
             <p class="lead">

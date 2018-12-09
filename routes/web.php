@@ -34,3 +34,7 @@ Route::get('/national-pride', function () {
 Route::get('/construct-a-fiefdom', function () {
     return view('fiefdom');
 })->name('fiefdom');
+
+Route::get('/worry-free-pregnancy', function () {
+    return view('worry-free-pregnancy');
+})->name('worry_free_pregnancy');
