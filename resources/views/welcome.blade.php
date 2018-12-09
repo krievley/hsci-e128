@@ -24,9 +24,9 @@
                 <img class="card-img-top" src="{!! asset('/img/cards/girls_night.png') !!}" alt="Pregnancy Break">
                 <div class="card-body">
                     <h5 class="card-title">Pregnancy Break</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Empirial Inc.</h6>
+                    <h6 class="card-subtitle mb-2 text-muted">The Emperial Agency</h6>
                     <p class="card-text">Take a break from your pregnancy by experiencing a world without that baby bump.</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
+                    <a href="{!! route('pregnancy_break') !!}" class="btn btn-primary">Learn More</a>
                 </div>
             </div>
         </div>
@@ -59,7 +59,7 @@
                 <img class="card-img-top" src="{!! asset('/img/cards/national_pride.png') !!}" alt="National Pride">
                 <div class="card-body">
                     <h5 class="card-title">National Pride</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Empirial Inc.</h6>
+                    <h6 class="card-subtitle mb-2 text-muted">The Emperial Agency</h6>
                     <p class="card-text">Discover more of the country you love. Exciting lands await.</p>
                     <a href="#" class="btn btn-primary">Learn More</a>
                 </div>
@@ -94,7 +94,7 @@
                 <img class="card-img-top" src="{!! asset('/img/cards/kingdom.png') !!}" alt="Construct a Fiefdom">
                 <div class="card-body">
                     <h5 class="card-title">Construct a Fiefdom</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Empirial Inc.</h6>
+                    <h6 class="card-subtitle mb-2 text-muted">The Emperial Agency</h6>
                     <p class="card-text">Build your kingdom by conquering and defending your territory.</p>
                     <a href="#" class="btn btn-primary">Learn More</a>
                 </div>

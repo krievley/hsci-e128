@@ -3,7 +3,7 @@
 @section('content')
     <div class="row">
         <div class="col banner-img bg-white">
-            <img class="img-fluid  mx-auto d-block" src="{!! asset('/img/female_travel.png') !!}" alt="Safe Travels">
+            <img class="img-fluid mx-auto d-block" src="{!! asset('/img/female_travel.png') !!}" alt="Safe Travels">
         </div>
     </div>
     <div class="row">

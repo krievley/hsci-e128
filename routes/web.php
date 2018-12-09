@@ -14,6 +14,7 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
 Route::get('/pregnant-man', function () {
     return view('pregnant-man');
 })->name('pregnant_man');
@@ -23,3 +24,7 @@ Route::get('/safe-travels', function () {
 Route::get('/peaceful-resistance', function () {
     return view('peaceful');
 })->name('peaceful');
+
+Route::get('/pregnancy-break', function () {
+    return view('pregnancy-break');
+})->name('pregnancy_break');
