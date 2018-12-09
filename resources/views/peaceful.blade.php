@@ -51,7 +51,28 @@
         <div class="col">
             <h2>Other Packages by FemCorp</h2>
             <div class="row">
-
+                <div class="col-md-6">
+                    <div class="card">
+                        <img class="card-img-top" src="{!! asset('/img/cards/baby_daddy.png') !!}" alt="The Pregnant Man">
+                        <div class="card-body">
+                            <h5 class="card-title">The Pregnant Man</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">FemCorp</h6>
+                            <p class="card-text">Want to try out a world where the men are responsible for child bearing?</p>
+                            <a href="{!! route('pregnant_man') !!}" class="btn btn-primary">Learn More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="card">
+                        <img class="card-img-top" src="{!! asset('/img/cards/female_travel.png') !!}" alt="Safe Travels">
+                        <div class="card-body">
+                            <h5 class="card-title">Safe Travels</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">FemCorp</h6>
+                            <p class="card-text">Travel anywhere in the world without worrying about personal safety.</p>
+                            <a href="{!! route('save_travels') !!}" class="btn btn-primary">Learn More</a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
